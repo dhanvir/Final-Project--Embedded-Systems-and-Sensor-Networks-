@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\BLE Project Final\Connection_Parameters\Connection_Parameters.cydsn\Connection_Parameters.cyprj|c47319c0-6bd9-4d19-8cf6-1813266c74e1
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b82d10b3-833d-49b6-8bbf-e916f189e357
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2cd0c7f3-25d3-4f9d-8ae6-4ddf9bcaf30f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2e67a2d9-467f-4368-86ff-9146aecea91d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1acd7db6-5910-4ea6-b5fa-f09feddecc6d
